@@ -18,7 +18,7 @@
   <instrument>
    <id>16</id>
    <name>Kick Reg 1b</name>
-   <drumkit>UltraAcousticKit</drumkit>
+   <drumkit></drumkit>
    <volume>0.97</volume>
    <isMuted>false</isMuted>
    <pan_L>1</pan_L>
@@ -61,7 +61,7 @@
   <instrument>
    <id>17</id>
    <name>Conga1 Hi</name>
-   <drumkit>ErnysPercussion</drumkit>
+   <drumkit></drumkit>
    <volume>0.84</volume>
    <isMuted>false</isMuted>
    <pan_L>1</pan_L>
@@ -104,7 +104,7 @@
   <instrument>
    <id>18</id>
    <name>Conga1 Mute</name>
-   <drumkit>ErnysPercussion</drumkit>
+   <drumkit></drumkit>
    <volume>0.85</volume>
    <isMuted>false</isMuted>
    <pan_L>1</pan_L>
@@ -147,7 +147,7 @@
   <instrument>
    <id>19</id>
    <name>Conga1 Lo</name>
-   <drumkit>ErnysPercussion</drumkit>
+   <drumkit></drumkit>
    <volume>0.85</volume>
    <isMuted>false</isMuted>
    <pan_L>1</pan_L>
@@ -190,7 +190,7 @@
   <instrument>
    <id>20</id>
    <name>Conga2 Hi</name>
-   <drumkit>ErnysPercussion</drumkit>
+   <drumkit></drumkit>
    <volume>0.85</volume>
    <isMuted>false</isMuted>
    <pan_L>1</pan_L>
@@ -233,7 +233,7 @@
   <instrument>
    <id>21</id>
    <name>Conga2 Hi Mute</name>
-   <drumkit>ErnysPercussion</drumkit>
+   <drumkit></drumkit>
    <volume>0.85</volume>
    <isMuted>false</isMuted>
    <pan_L>1</pan_L>
@@ -276,7 +276,7 @@
   <instrument>
    <id>22</id>
    <name>Conga2 Lo</name>
-   <drumkit>ErnysPercussion</drumkit>
+   <drumkit></drumkit>
    <volume>0.86</volume>
    <isMuted>false</isMuted>
    <pan_L>1</pan_L>
@@ -319,7 +319,7 @@
   <instrument>
    <id>23</id>
    <name>Conga2 Lo Mute</name>
-   <drumkit>ErnysPercussion</drumkit>
+   <drumkit></drumkit>
    <volume>0.85</volume>
    <isMuted>false</isMuted>
    <pan_L>0.96</pan_L>
@@ -362,7 +362,7 @@
   <instrument>
    <id>24</id>
    <name>Conga2 Slap</name>
-   <drumkit>ErnysPercussion</drumkit>
+   <drumkit></drumkit>
    <volume>0.85</volume>
    <isMuted>false</isMuted>
    <pan_L>1</pan_L>
@@ -405,7 +405,7 @@
   <instrument>
    <id>25</id>
    <name>Maracas</name>
-   <drumkit>ErnysPercussion</drumkit>
+   <drumkit></drumkit>
    <volume>0.8</volume>
    <isMuted>false</isMuted>
    <pan_L>1</pan_L>
@@ -1201,7 +1201,7 @@
      <note_off>false</note_off>
     </note>
     <note>
-     <position>81</position>
+     <position>84</position>
      <leadlag>0</leadlag>
      <velocity>0.8</velocity>
      <pan_L>0.5</pan_L>
@@ -1209,7 +1209,7 @@
      <pitch>0</pitch>
      <key>C0</key>
      <length>-1</length>
-     <instrument>18</instrument>
+     <instrument>22</instrument>
      <note_off>false</note_off>
     </note>
     <note>
